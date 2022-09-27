@@ -18,6 +18,3 @@ To login follow these steps:
 If you try to login and can't remember your password there is a "Forgot your password?" hyperling which will take you to the "Forgot your password?" page. To reset your password follow these steps:
 1. Fill in the details asked.
 2. Click on the blue "Reset Password" button.
-
-
-If you try to login and can't remember your password there is a "Forgot your password
