@@ -2,7 +2,7 @@
 
 When going to the webapp you will start at the Home Page. From here you have two
 To regestering follow these steps:
-1. Click on the Regester button that is located on a panel on the left hand side of the page (if this panel is not visable you can click on the 3 lines icon in the top left coner to open it).
+1. Click on the Register button that is located on a panel on the left hand side of the page (if this panel is not visable you can click on the 3 lines icon in the top left coner to open it).
 2. You will now be on the Register page where you can fill in the details asked from you.
 3. Lastly you can press the blue Register button (not the one on the panel).
 3. Lastly you can press the blue "Register" button (not the one on the panel).
