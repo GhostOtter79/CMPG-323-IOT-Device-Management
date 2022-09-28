@@ -340,4 +340,4 @@ ASALocalRun/
 healthchecksdb
 
 # Appsetting to store connection string
-./ConnectedOffice/DeviceManagement_WebApp/appsettings.json
+ConnectedOffice/DeviceManagement_WebApp/appsettings.json
