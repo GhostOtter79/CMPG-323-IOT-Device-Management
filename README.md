@@ -86,7 +86,36 @@ To do anything on the Categories page your first have to click on the Categories
 1. Click on the trash can icon next to the category you want to delete.
 2. You should now be on the "Delete Category" page.
 3. If you are sure you want to delete the category you can click on the red "Delete" button.
-4. If you don't want to delete the category when on this page you can simply press the "Back to List" hyperlink which will return you to the "Zones" page.
+4. If you don't want to delete the category when on this page you can simply press the "Back to List" hyperlink which will return you to the "Categories" page.
+
+## Devices page
+To do anything on the Devices page your first have to click on the Devices option on the panel on the left hand side of the screen when you are on the Home page. After that you have the option to do the following:
+
+- To create a device:
+1. Click on the plus icon next to Devices (not the one on the panel).
+2. You should now be on the "Create Device" page.
+3. Then fill in the datials that are asked.
+4. Press the blue "Create" button.
+5. If you don't want to create a new device when on this page you can simply press the "Back to List" hyperlink which will return you to the "Categories" page.
+
+-To edit a device:
+1. Click on the pencil icon next to the device you want to edit.
+2. You should now be on the "Edit Device" page.
+3. Change the things that you want to change by editing what stands in the text boxes.
+4. Press the blue "Save" button to save your changes.
+5. If you don't wnat to edit a device when on this page you can simply press the "Back to List" hyperlink which will return you to the "Devices" page.
+
+-To view a device:
+1. Click on the eye icon next to the device you want to view.
+2. You should now be on the "Device Details" page where you can see all the details of the spesific device.
+3. You have the option to edit that device from here. To do so simply click on the "Edit" hyperlink and follow the steps on how to edit a device from step 2.
+4. When done viewing the device you can simply press the "Back to List" hyperlink which will return you to the "Devices" page.
+
+-To delete a device:
+1. Click on the trash can icon next to the device you want to delete.
+2. You should now be on the "Delete Device" page.
+3. If you are sure you want to delete the device you can click on the red "Delete" button.
+4. If you don't want to delete the device when on this page you can simply press the "Back to List" hyperlink which will return you to the "Devices" page.
 
 ## Logout
 To logout simply press on the Logout button on the panel on the left hand side of the page
