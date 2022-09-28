@@ -21,6 +21,7 @@ If you try to login and can't remember your password there is a "Forgot your pas
 
 <hr>
 After you have registered or loged in you will now have the following options on the left hand panel:
+
 1. Home
 2. Zones
 3. Categories
@@ -86,3 +87,6 @@ To do anything on the Categories page your first have to click on the Categories
 2. You should now be on the "Delete Category" page.
 3. If you are sure you want to delete the category you can click on the red "Delete" button.
 4. If you don't want to delete the category when on this page you can simply press the "Back to List" hyperlink which will return you to the "Zones" page.
+
+## Logout
+To logout simply press on the Logout button on the panel on the left hand side of the page
