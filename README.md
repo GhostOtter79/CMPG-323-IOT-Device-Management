@@ -31,4 +31,11 @@ Each of these will take you to their respective page. On the Zones, Categories a
 
 ## Zones page
 To do anything on the Zones page your first have to click on the Zones option on the panel on the left hand side of the screen when you are on the home page. After that you have the option to do the following:
--To create a zone you first have to  
+a. To create a zone:
+1. Click on the plus icon next to Zones (not the one on the panel).
+2. You should now be on the "Create Zone" page.
+3. Then fill in the datials that are asked.
+4. Press the blue "Create" button.
+5. If you don't want to create a new list when on this page you can simply press the "Back to List" hyperlink which wil return you to the "Zones" page.
+
+b. 
