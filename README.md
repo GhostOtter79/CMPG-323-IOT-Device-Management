@@ -30,30 +30,59 @@ After you have registered or loged in you will now have the following options on
 Each of these will take you to their respective page. On the Zones, Categories and Devices pages you can create, edit, view and delete instances that are on the database. The steps for how to do it will follow.
 
 ## Zones page
-To do anything on the Zones page your first have to click on the Zones option on the panel on the left hand side of the screen when you are on the home page. After that you have the option to do the following:
+To do anything on the Zones page your first have to click on the Zones option on the panel on the left hand side of the screen when you are on the Home page. After that you have the option to do the following:
 
 - To create a zone:
 1. Click on the plus icon next to Zones (not the one on the panel).
 2. You should now be on the "Create Zone" page.
 3. Then fill in the datials that are asked.
 4. Press the blue "Create" button.
-5. If you don't want to create a new list when on this page you can simply press the "Back to List" hyperlink which wil return you to the "Zones" page.
+5. If you don't want to create a new zone when on this page you can simply press the "Back to List" hyperlink which will return you to the "Zones" page.
 
 -To edit a zone:
 1. Click on the pencil icon next to the zone you want to edit.
 2. You should now be on the "Edit Zone" page.
-3. Change the things that you want to change by editing what stands in the text box's.
+3. Change the things that you want to change by editing what stands in the text boxes.
 4. Press the blue "Save" button to save your changes.
-5. If you don't wnat to edit a zone when on this page you can simply press the "Back to List" hyperlink which wil return you to the "Zones" page.
+5. If you don't wnat to edit a zone when on this page you can simply press the "Back to List" hyperlink which will return you to the "Zones" page.
 
 -To view a zone:
 1. Click on the eye icon next to the zone you want to view.
 2. You should now be on the "Zones Details" page where you can see all the details of the spesific zone.
-3. You have the option to edit that zone from here. To do so simply click on the "Edit" hyperlink and follow the steps on hom to edit a zone from step 2.
-4. When done viewing the zone you can simply press the "Back to List" hyperlink which wil return you to the "Zones" page.
+3. You have the option to edit that zone from here. To do so simply click on the "Edit" hyperlink and follow the steps on how to edit a zone from step 2.
+4. When done viewing the zone you can simply press the "Back to List" hyperlink which will return you to the "Zones" page.
 
 -To delete a zone:
 1. Click on the trash can icon next to the zone you want to delete.
 2. You should now be on the "Delete Zone" page.
 3. If you are sure you want to delete the zone you can click on the red "Delete" button.
-4. If you don't want to delete the zone when on this page you can simply press the "Back to List" hyperlink which wil return you to the "Zones" page.
+4. If you don't want to delete the zone when on this page you can simply press the "Back to List" hyperlink which will return you to the "Zones" page.
+
+## Categories page
+To do anything on the Categories page your first have to click on the Categories option on the panel on the left hand side of the screen when you are on the Home page. After that you have the option to do the following:
+
+- To create a category:
+1. Click on the plus icon next to Categories (not the one on the panel).
+2. You should now be on the "Create Category" page.
+3. Then fill in the datials that are asked.
+4. Press the blue "Create" button.
+5. If you don't want to create a new category when on this page you can simply press the "Back to List" hyperlink which will return you to the "Categories" page.
+
+-To edit a category:
+1. Click on the pencil icon next to the category you want to edit.
+2. You should now be on the "Edit Category" page.
+3. Change the things that you want to change by editing what stands in the text boxes.
+4. Press the blue "Save" button to save your changes.
+5. If you don't wnat to edit a category when on this page you can simply press the "Back to List" hyperlink which will return you to the "Categories" page.
+
+-To view a category:
+1. Click on the eye icon next to the category you want to view.
+2. You should now be on the "Category Details" page where you can see all the details of the spesific category.
+3. You have the option to edit that category from here. To do so simply click on the "Edit" hyperlink and follow the steps on how to edit a category from step 2.
+4. When done viewing the category you can simply press the "Back to List" hyperlink which will return you to the "Categories" page.
+
+-To delete a category:
+1. Click on the trash can icon next to the category you want to delete.
+2. You should now be on the "Delete Category" page.
+3. If you are sure you want to delete the category you can click on the red "Delete" button.
+4. If you don't want to delete the category when on this page you can simply press the "Back to List" hyperlink which will return you to the "Zones" page.
