@@ -28,7 +28,7 @@ After you have registered or loged in you will now have the following options on
 4. Devices
 5. Logout
 
-Each of these will take you to their respective page. On the Zones, Categories and Devices pages you can create, edit, view and delete instances that are on the database. The steps for how to do it will follow.
+Each of these will take you to their respective page. You can go to to the Home page from any page by simply clicking on the "Home" button on the panel on the left side of the screen. On the Zones, Categories and Devices pages you can create, edit, view and delete instances that are on the database. The steps for how to do it will follow.
 
 ## Zones page
 To do anything on the Zones page your first have to click on the Zones option on the panel on the left hand side of the screen when you are on the Home page. After that you have the option to do the following:
